@@ -8,3 +8,7 @@ DATABASE = {
 	'engine': 'file_storage',   # support mysql,PostgreSQL in the future
 	'dbpath': "{}\db".format(BASEDIR),
 }
+FILEPATH = {
+	"loca_path":"d:/",    # 本地目录
+	"remote_path":"/srv/" # 远程主机目录
+}

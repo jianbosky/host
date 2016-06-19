@@ -1,0 +1,181 @@
+2016/06/18 14:58:25 WARNING 主机：sdadf 执行操作：asdf,asdfasd
+2016/06/18 15:14:38 INFO 主机：sdadf 执行操作：asdf,asdfasd
+2016/06/18 15:14:48 INFO 主机：sdadf 执行操作：asdf,asdfasd
+2016/06/18 15:15:16 INFO 主机：sdadf 执行操作：asdf,asdfasd
+2016/06/18 15:15:42 INFO 主机：sdadf 执行操作：asdf,asdfasd
+2016/06/18 15:15:49 INFO 主机：sdadf 执行操作：asdf,asdfasd
+2016/06/18 17:38:04 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 17:38:05 ERROR 连接主机出错：%d format: a number is required, not str
+2016/06/18 17:43:16 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 17:43:17 ERROR 连接主机出错：%d format: a number is required, not str
+2016/06/18 17:46:09 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 17:46:10 INFO Authentication (password) successful!
+2016/06/18 17:48:40 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 17:48:41 INFO Authentication (password) successful!
+2016/06/18 17:49:34 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 17:54:04 INFO IP地址为空！可能是输入的IP不合法或没有增加进去
+2016/06/18 17:58:51 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:00:16 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:03:54 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:07:05 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:09:04 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:13:15 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:19:03 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:20:30 INFO input:cmd,error:list indices must be integers or slices, not str
+2016/06/18 18:23:26 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:23:27 INFO Authentication (password) successful!
+2016/06/18 18:32:26 INFO input:cmd,error:unhashable type: 'dict'
+2016/06/18 18:33:46 INFO input:cmd,error:unhashable type: 'dict'
+2016/06/18 18:34:06 INFO input:cmd,error:unhashable type: 'dict'
+2016/06/18 18:35:06 INFO input:cmd,error:unhashable type: 'dict'
+2016/06/18 18:36:05 INFO input:cmd,error:unhashable type: 'dict'
+2016/06/18 18:36:41 INFO input:cmd,error:unhashable type: 'dict'
+2016/06/18 18:39:13 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:39:14 INFO Authentication (password) successful!
+2016/06/18 18:41:17 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:41:18 INFO Authentication (password) successful!
+2016/06/18 18:41:19 INFO 主机：192.168.1.190，执行命令df -h成功！
+2016/06/18 18:42:42 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:42:43 INFO Authentication (password) successful!
+2016/06/18 18:42:43 INFO 主机：192.168.1.190，执行命令ls成功！
+2016/06/18 18:43:04 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:43:05 INFO Authentication (password) successful!
+2016/06/18 18:43:05 INFO 主机：192.168.1.190，执行命令free -m成功！
+2016/06/18 18:43:22 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:43:22 INFO Authentication (password) successful!
+2016/06/18 18:43:22 INFO 主机：192.168.1.190，执行命令top成功！
+2016/06/18 18:43:39 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:43:39 INFO Authentication (password) successful!
+2016/06/18 18:43:39 INFO 主机：192.168.1.190，执行命令ifconfig成功！
+2016/06/18 18:45:46 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:45:48 INFO Authentication (password) successful!
+2016/06/18 18:45:48 INFO 主机：192.168.1.190，执行命令histroy成功！
+2016/06/18 18:46:17 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/18 18:46:18 INFO Authentication (password) successful!
+2016/06/18 18:46:18 INFO 主机：192.168.1.190，执行命令cat /var/log/secure成功！
+2016/06/19 09:30:58 INFO input:file,error:list indices must be integers or slices, not str
+2016/06/19 09:33:07 INFO input:file,error:list indices must be integers or slices, not str
+2016/06/19 09:35:15 INFO input:file,error:list indices must be integers or slices, not str
+2016/06/19 09:36:10 INFO input:file,error:list indices must be integers or slices, not str
+2016/06/19 09:40:06 ERROR 连接失败
+2016/06/19 09:40:06 ERROR 连接失败
+2016/06/19 10:52:09 INFO 主机：192.168.1.190，执行命令['free -m', 'ls', 'df -h']成功！
+2016/06/19 10:52:27 ERROR 连接主机192.168.1.3出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 10:52:28 ERROR 连接主机192.168.1.111出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 10:54:01 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 10:54:02 INFO Authentication (password) successful!
+2016/06/19 10:54:03 INFO 主机：192.168.1.190，执行命令['df -h']成功！
+2016/06/19 10:54:22 ERROR 连接主机192.168.1.3出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 10:54:23 ERROR 连接主机192.168.1.111出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 10:56:13 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 10:56:15 INFO Authentication (password) successful!
+2016/06/19 10:56:16 INFO 主机：192.168.1.190，执行命令['df -h', 'ls', 'free -m', 'ifconfig']成功！
+2016/06/19 10:56:35 ERROR 连接主机192.168.1.3出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 10:56:35 ERROR 连接主机192.168.1.111出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 11:27:58 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 11:27:59 INFO Connected (version 2.0, client OpenSSH_5.1)
+2016/06/19 11:28:00 INFO Authentication (password) successful!
+2016/06/19 11:28:01 INFO 主机：192.168.1.190，执行命令['df -h', 'free -m', 'ls']成功！
+2016/06/19 11:28:01 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 11:28:02 INFO Authentication (password) successful!
+2016/06/19 11:28:04 INFO 主机：192.168.3.254，执行命令['df -h', 'free -m', 'ls']成功！
+2016/06/19 11:28:05 INFO Auth banner: b'VMware vCenter Server Appliance\n'
+2016/06/19 11:28:05 INFO Authentication (password) failed.
+2016/06/19 11:28:05 ERROR 连接主机192.168.3.253出错：Authentication failed.
+2016/06/19 11:28:20 ERROR 连接主机192.168.1.3出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 11:28:20 ERROR 连接主机192.168.1.111出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 11:46:50 ERROR 删除主机异常list.remove(x): x not in list
+2016/06/19 11:51:15 INFO 删除主机[192.168.1.111]成功！
+2016/06/19 11:53:43 ERROR 增加主机[192.168.3.254]失败！
+2016/06/19 11:54:31 ERROR 增加主机异常invalid literal for int() with base 10: ''
+2016/06/19 11:56:16 INFO 增加主机[192.168.3.254]成功！
+2016/06/19 11:56:43 INFO IP地址为空！可能是输入的IP不合法或没有增加进去
+2016/06/19 11:57:08 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 11:57:08 INFO Authentication (password) successful!
+2016/06/19 11:57:09 INFO 主机：192.168.3.254，执行命令['df -h']成功！
+2016/06/19 11:58:56 INFO IP地址为空！可能是输入的IP不合法或没有增加进去
+2016/06/19 11:59:45 INFO IP地址为空！可能是输入的IP不合法或没有增加进去
+2016/06/19 12:04:05 INFO 你当前输入的IP地址不存在，请先增加！
+2016/06/19 12:04:12 ERROR 增加主机异常invalid literal for int() with base 10: ''
+2016/06/19 12:06:26 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:06:26 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:06:27 INFO Authentication (password) successful!
+2016/06/19 12:06:27 INFO Authentication (password) successful!
+2016/06/19 12:06:27 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:06:27 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:06:28 INFO 主机:192.168.3.254,文件操作成功！
+2016/06/19 12:06:28 INFO 主机:192.168.1.190,文件操作成功！
+2016/06/19 12:06:47 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 12:07:09 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:07:09 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:07:09 INFO Authentication (password) successful!
+2016/06/19 12:07:09 INFO Authentication (password) successful!
+2016/06/19 12:07:10 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:07:10 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:07:10 INFO 主机:192.168.3.254,文件操作成功！
+2016/06/19 12:07:11 INFO 主机:192.168.1.190,文件操作成功！
+2016/06/19 12:07:30 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 12:15:33 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:15:35 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:15:35 INFO Authentication (password) successful!
+2016/06/19 12:15:36 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:15:36 ERROR 主机:192.168.3.254,操作失败:[WinError 3] 系统找不到指定的路径。: 'd:/sn.txt\\192.168.3.254'
+2016/06/19 12:15:36 INFO Authentication (password) successful!
+2016/06/19 12:15:39 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:15:39 ERROR 主机:192.168.1.190,操作失败:[WinError 3] 系统找不到指定的路径。: 'd:/sn.txt\\192.168.1.190'
+2016/06/19 12:15:53 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 12:23:18 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:23:20 INFO Authentication (password) successful!
+2016/06/19 12:23:20 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:23:21 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:23:23 INFO Authentication (password) successful!
+2016/06/19 12:23:23 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:23:33 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 12:24:03 ERROR 主机:192.168.1.190,操作失败:[Errno 13] Permission denied: 'd:/192.168.1.190\\sn.txt'
+2016/06/19 12:24:03 ERROR 主机:192.168.3.254,操作失败:[Errno 13] Permission denied: 'd:/192.168.3.254\\sn.txt'
+2016/06/19 12:28:11 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:28:12 INFO Authentication (password) successful!
+2016/06/19 12:28:12 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:28:15 INFO 主机:192.168.3.254,文件操作成功！
+2016/06/19 12:28:15 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 12:28:17 INFO Authentication (password) successful!
+2016/06/19 12:28:17 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 12:28:26 INFO 主机:192.168.1.190,文件操作成功！
+2016/06/19 12:28:34 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 13:01:08 INFO 用户[alex]被锁定！
+2016/06/19 13:07:04 INFO 用户[jjb]登陆成功！
+2016/06/19 13:07:58 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:07:58 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:07:59 INFO Authentication (password) successful!
+2016/06/19 13:07:59 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 13:07:59 INFO Authentication (password) successful!
+2016/06/19 13:07:59 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 13:08:00 INFO 主机:192.168.1.190,文件操作成功！
+2016/06/19 13:08:01 INFO 主机:192.168.3.254,文件操作成功！
+2016/06/19 13:08:19 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 13:08:45 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:08:45 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:08:45 INFO Authentication (password) successful!
+2016/06/19 13:08:46 INFO Authentication (password) successful!
+2016/06/19 13:08:46 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 13:08:46 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 13:08:49 INFO 主机:192.168.3.254,文件操作成功！
+2016/06/19 13:08:49 INFO 主机:192.168.1.190,文件操作成功！
+2016/06/19 13:09:05 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 13:09:29 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:09:29 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:09:30 INFO Authentication (password) successful!
+2016/06/19 13:09:30 INFO Authentication (password) successful!
+2016/06/19 13:09:30 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 13:09:31 INFO [chan 0] Opened sftp connection (server version 3)
+2016/06/19 13:09:47 INFO 主机:192.168.3.254,文件操作成功！
+2016/06/19 13:09:50 ERROR 主机:192.168.1.3,连接失败:Unable to connect to 192.168.1.3: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2016/06/19 13:09:54 INFO 主机:192.168.1.190,文件操作成功！
+2016/06/19 13:10:56 INFO 用户[jjb]登陆成功！
+2016/06/19 13:11:19 INFO 修改主机[192.168.3.254]成功,新组名称为test！
+2016/06/19 13:11:44 INFO 删除主机[192.168.3.254]成功！
+2016/06/19 13:50:12 INFO 用户[jjb]登陆成功！
+2016/06/19 13:50:49 INFO Connected (version 2.0, client OpenSSH_5.3)
+2016/06/19 13:50:50 INFO Authentication (password) successful!
+2016/06/19 13:50:53 INFO 主机：192.168.1.190，执行命令['free -m', 'df -h']成功！
+2016/06/19 13:51:10 ERROR 连接主机192.168.1.3出错：[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
